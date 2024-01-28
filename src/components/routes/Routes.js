@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Account from "../account/Account";
 import Dashboard from "../dashboard/Dashboard";
-import Login from "../login/login.js";
+import Login from "../login/login";
 import Products from "../products/Products";
 const appRoutes = () => {
   return (
